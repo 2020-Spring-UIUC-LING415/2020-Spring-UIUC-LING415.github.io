@@ -118,7 +118,7 @@ Students are expected complete all assigned readings and video lectures prior to
 </p>
 
 <p>
-If a student will be absent from class for any reason, the student is expected to inform the course instructor by <a href="https://piazza.com/class/jcgg3h0lzte3f7?cid=8">posting to this Piazza thread</a> ahead of time. Daily participation credit for excused absences may, at the discretion of the instructor, be made up by means of additional assignments.
+If a student will be absent from class for any reason, the student is expected to inform the course instructor by <a href="https://piazza.com/class/k51iq0dfqqy47p?cid=9">posting to this Piazza thread</a> ahead of time. Daily participation credit for excused absences may, at the discretion of the instructor, be made up by means of additional assignments.
 </p>
 
 <p>
