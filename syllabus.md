@@ -7,11 +7,6 @@ caption: The Tower of Babel
 title: Syllabus
 active_tab: syllabus
 ---
-<!--
-<h1 style="text-align:center;">LING/TRST 415  — Syllabus</h1>
--->
-
-<p style="text-align:center;"><strong>Syllabus is subject to change</strong></p>
 
 <h2>Academic Integrity</h2>
 
