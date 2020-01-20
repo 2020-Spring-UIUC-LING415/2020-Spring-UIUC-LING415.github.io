@@ -474,7 +474,11 @@
   week: 12
   date: 2020-04-07
   title: Neural network models
-
+  reading:
+    -
+      author: Koehn
+      title: "\"Neural Networks\", Ch. 5.0-5.5.0 of \"Neural Machine Translation\""
+      pages: 83-89
 -
   week: 12
   date: 2020-04-09
