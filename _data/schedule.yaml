@@ -490,12 +490,12 @@
       pages: 93-94
     -
       author: Koehn
-      title: "\"Computation Graphs\"", Ch. 6 of \"Neural Machine Translation\""
+      title: "\"Computation Graphs\", Ch. 6 of \"Neural Machine Translation\""
       pages: 103-114
       grad_level: true
     -
       author: Koehn
-      title: "\"Neural Language Models\"", Ch. 7.0-7.2 of \"Neural Machine Translation\""
+      title: "\"Neural Language Models\", Ch. 7.0-7.2 of \"Neural Machine Translation\""
       pages: 115-121
 -
   week: 12
