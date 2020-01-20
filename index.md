@@ -11,7 +11,7 @@ Instructor
 : [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours on Tuesdays at 5:20 PM in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019, and by appointment.
 
 TA
-: [Helen Gent](https://linguistics.illinois.edu/directory/profile/hmgent2)
+: [Helen Gent](https://linguistics.illinois.edu/directory/profile/hmgent2) - Office hours on Fridays at noon in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room TBD, and by appointment.
 
 <br/>
 
