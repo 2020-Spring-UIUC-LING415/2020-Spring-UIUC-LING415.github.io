@@ -1,25 +1,7 @@
 -
   week: 1
   date: 2020-01-21
-  title: "Free MT on the Internet"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: "Yang & Lange"
-      title: "SYSTRAN on AltaVista: A User Study on Real-Time Machine Translation on the Internet"
-      url: http://link.springer.com.proxy2.library.illinois.edu/content/pdf/10.1007%2F3-540-49478-2_25.pdf
-    -
-      author: Och
-      title: "Statistical machine translation live"
-      url: http://googleresearch.blogspot.com/2006/04/statistical-machine-translation-live.html
-    -
-      author: "Gaspari & Hutchins"
-      title: "Online and Free! Ten Years of Online Machine Translation: Origins, Developments, Current Use and Future Prospects"
-      url: http://www.mt-archive.info/MTS-2007-Gaspari-1.pdf
--
-  week: 1
-  date: 2020-01-23
-  title: Introduction to Machine Translation
+  title: "Introduction to Machine Translation"
   lecturer: Lane Schwartz
   reading:
     -
@@ -40,8 +22,8 @@
       title: "\"The whisky was invisible\", or Persistent myths of MT"
       url: http://www.mt-archive.info/90/MTNI-1995-Hutchins.pdf  
 -
-  week: 2
-  date: 2020-01-28
+  week: 1
+  date: 2020-01-23
   title: Universal Language in the 17th century
   slides: slides/Universal_Language_in_the_17th_Century.pdf
   lecturer: Lane Schwartz
@@ -115,7 +97,7 @@
       optional: true
 -
   week: 2
-  date: 2020-01-30
+  date: 2020-01-28
   title: Machine Translation in the 1930s
   lecturer: Lane Schwartz
   reading:
@@ -124,8 +106,8 @@
       title:  Two precursors of machine translation - Artsrouni and Trojanskij
       url: http://www.mt-archive.info/00/IJT-2004-Hutchins.pdf   
 -
-  week: 3
-  date: 2020-02-04
+  week: 2
+  date: 2020-01-30
   title: Machine Translation in the 1940s 
   lecturer: Lane Schwartz
   reading:
@@ -151,7 +133,7 @@
       url: http://www.mt-archive.info/50/Weaver-1949.pdf
 -
   week: 3
-  date: 2020-02-06
+  date: 2020-02-04
   title: 1948-1950 The Noisy Channel Model
   lecturer: Lane Schwartz
   slides: slides/Noisy_Channel_Model.pdf
@@ -175,8 +157,8 @@
       url: https://ia601607.us.archive.org/35/items/bstj27-3-379/bstj27-3-379_text.pdf
       grad_level: true
 -
-  week: 4
-  date: 2020-02-11
+  week: 3
+  date: 2020-02-06
   title: 1951-1952 - Academic MT Research Begins
   lecturer: Lane Schwartz
   reading:
@@ -199,7 +181,7 @@
       optional: true
 -
   week: 4
-  date: 2020-02-13
+  date: 2020-02-11
   title: 1954-1966 The Decade of Optimism
   lecturer: Lane Schwartz
   reading:
@@ -251,8 +233,8 @@
       title: Stochastic Methods of Mechanical Translation
       url: http://www.mt-archive.info/50/MT-1956-King.pdf
 -
-  week: 5
-  date: 2020-02-18
+  week: 4
+  date: 2020-02-13
   title: 1966 - The ALPAC Report
   lecturer: Lane Schwartz
   reading:
@@ -267,7 +249,7 @@
       pages: 1-35
 -
   week: 5
-  date: 2020-02-20
+  date: 2020-02-18
   title: Tree-Based Models
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/11-tree-based-models.pdf
@@ -282,8 +264,8 @@
       title: "Slides for Chapter 11: Tree-based Models"
       url: http://statmt.org/book/slides/11-tree-based-models.pdf 
 -
-  week: 6
-  date: 2020-02-25
+  week: 5
+  date: 2020-02-20
   title: "Approaches to MT: The Vauquois Triangle"
   lecturer: Lane Schwartz
   reading:
@@ -302,7 +284,7 @@
       optional: true
 -
   week: 6
-  date: 2020-02-27
+  date: 2020-02-25
   title: Interlingual Machine Translation
   lecturer: Lane Schwartz
   reading:
@@ -321,12 +303,12 @@
       url: http://www.mt-archive.info/50/Delavenay-1960.pdf
       pages: 46-54
 -
-  week: 7
-  date: 2020-03-03
+  week: 6
+  date: 2020-02-27
   title: Exam 1 
 -
   week: 7
-  date: 2020-03-05
+  date: 2020-03-03
   title: N-gram language models
   slides: http://statmt.org/book/slides/07-language-models.pdf
   reading:
@@ -343,10 +325,10 @@
       author: "Jurafsky & Martin"
       title: "\"N-gram language models\", Ch. 3 of \"Speech and Language Processing, draft 3rd edition\""
       url: https://web.stanford.edu/~jurafsky/slp3/3.pdf
-      optional: true
+      optional: true  
 -
-  week: 8
-  date: 2020-03-10
+  week: 7
+  date: 2020-03-05
   title: Statistical Word-Based MT
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/04-word-based-models.pdf
@@ -367,7 +349,7 @@
       grad_level: true
 -
   week: 8
-  date: 2020-03-12
+  date: 2020-03-10
   title: Statistical Phrase-Based MT
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/05-phrase-based-models.pdf
@@ -387,18 +369,8 @@
       url: http://aclweb.org/anthology/N/N03/N03-1017.pdf
       grad_level: true
 -
-  week: 09
-  date: 2020-03-17
-  title: Spring Break
-  lecturer:
--
-  week: 09
-  date: 2020-03-19
-  title: Spring Break
-  lecturer:
--
-  week: 10
-  date: 2020-03-24
+  week: 8
+  date: 2020-03-12
   title: Decoding
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/06-decoding.pdf
@@ -417,9 +389,19 @@
       title: "Stack decoding video walk-through"
       url: https://www.youtube.com/edit?o=U&video_id=yX8_3zTRYzo
 -
+  week: 09
+  date: 2020-03-17
+  title: Spring Break
+  lecturer:
+-
+  week: 09
+  date: 2020-03-19
+  title: Spring Break
+  lecturer:
+-
   week: 10
-  date: 2020-03-26
-  title: Feed-forward neural networks
+  date: 2020-03-24
+  title: Introduction to neural networks
   lecturer: Lane Schwartz
   reading:
     -
@@ -440,6 +422,12 @@
       title: "\"Computation Graphs\", Ch. 6 of \"Neural Machine Translation\""
       pages: 103-114
       grad_level: true
+-
+  week: 10
+  date: 2020-03-26
+  title: Feed-forward neural networks
+  lecturer: Lane Schwartz
+  reading:
     -
       author: Koehn
       title: "\"Neural Language Models\", Ch. 7.0-7.2 of \"Neural Machine Translation\""
@@ -505,6 +493,18 @@
   title: MT in Everyday Life
   lecturer: Lane Schwartz
   reading:
+    -
+      author: "Yang & Lange"
+      title: "SYSTRAN on AltaVista: A User Study on Real-Time Machine Translation on the Internet"
+      url: http://link.springer.com.proxy2.library.illinois.edu/content/pdf/10.1007%2F3-540-49478-2_25.pdf
+    -
+      author: Och
+      title: "Statistical machine translation live"
+      url: http://googleresearch.blogspot.com/2006/04/statistical-machine-translation-live.html
+    -
+      author: "Gaspari & Hutchins"
+      title: "Online and Free! Ten Years of Online Machine Translation: Origins, Developments, Current Use and Future Prospects"
+      url: http://www.mt-archive.info/MTS-2007-Gaspari-1.pdf
     -
       author: Och
       title: "51 Languages in Google Translate"
