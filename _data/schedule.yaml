@@ -550,11 +550,21 @@
   date: 2020-04-21
   title: "MT in the Big Picture"
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn
+      title: "\"The Translation Problem\", Ch. 1 of \"Neural Machine Translation\""
+      pages: 23-37
 -
   week: 14
   date: 2020-04-23
   title: "MT in Evaluation"
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn
+      title: "\"Evaluation\", Ch. 4 of \"Neural Machine Translation\""
+      pages: 59-80
 -
   week: 15
   date: 2020-04-28
