@@ -479,15 +479,7 @@
   week: 12
   date: 2020-04-09
   title: Recurrent neural models
-  reading:
-    -
-      author: Koehn
-      title: "\"Recurrent Neural Language Models\", Ch. 7.4 of \"Neural Machine Translation\""
-      pages: 122-124
-    -
-      author: Koehn
-      title: "\"Neural Translation Models\"", Ch. 8.0-8.2 of \"Neural Machine Translation\""
-      pages: 137-142
+
 -
   week: 13
   date: 2020-04-14
