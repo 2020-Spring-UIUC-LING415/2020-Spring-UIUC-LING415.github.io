@@ -1,30 +1,21 @@
 -
   week: 1
   date: 2020-01-21
-  title: Course overview and required tools
+  title: "Free MT on the Internet"
   lecturer: Lane Schwartz
-  slides: https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1
   reading:
-   - 
-     author: Wikibooks.org
-     title: LaTeX - How to get help
-     url: https://en.wikibooks.org/wiki/LaTeX/How_to_get_help
-   - 
-     author: Wikibooks.org
-     title: LaTeX - Basics
-     url: https://en.wikibooks.org/wiki/LaTeX/Basics
-   -
-     author: Oetiker, et al 
-     title: The Not So Short Introduction to LaTeX 2e (Ch. 1 and Ch. 2 (skip 2.5.1-2.5.7))
-     url: https://tobi.oetiker.ch/lshort/lshort.pdf
-   -
-     author: Wikibooks.org
-     title: LaTeX - Document Structure
-     url: https://en.wikibooks.org/wiki/LaTeX/Document_Structure
-   -
-     author: Wikibooks.org
-     title: LaTeX - Bibliography management - BibTeX
-     url: https://en.wikibooks.org/wiki/LaTeX/Bibliography_Management#BibTeX
+    -
+      author: "Yang & Lange"
+      title: "SYSTRAN on AltaVista: A User Study on Real-Time Machine Translation on the Internet"
+      url: http://link.springer.com.proxy2.library.illinois.edu/content/pdf/10.1007%2F3-540-49478-2_25.pdf
+    -
+      author: Och
+      title: "Statistical machine translation live"
+      url: http://googleresearch.blogspot.com/2006/04/statistical-machine-translation-live.html
+    -
+      author: "Gaspari & Hutchins"
+      title: "Online and Free! Ten Years of Online Machine Translation: Origins, Developments, Current Use and Future Prospects"
+      url: http://www.mt-archive.info/MTS-2007-Gaspari-1.pdf
 -
   week: 1
   date: 2020-01-23
@@ -374,21 +365,19 @@
 -
   week: 8
   date: 2020-03-12
-  title: "MT in the U.S. Government"
+  title: Language Models
   lecturer: Lane Schwartz
+  slides: http://statmt.org/book/slides/07-language-models.pdf
   reading:
     -
-      author: NSA
-      title: GISTER
-      url: papers/1991_Cryptolog.pdf
+      author: Koehn
+      title: "\"Language Models\", Ch. 7.0-7.2 of \"Statistical Machine Translation\""
+      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
+      pages: 181-196
     -
-      author: Reeder
-      title: "At Your Service: Embedded MT As a Service"
-      url: http://www.aclweb.org/anthology/W00-0503
-    -
-      author: Pedtke
-      title: "U.S. Government Support and Use of Machine Translation: Current Status"
-      url: http://mt-archive.info/MTS-1997-Pedtke.pdf
+      author: Koehn
+      title: "Slides for Chapter 7: Language Models"
+      url: http://statmt.org/book/slides/07-language-models.pdf
 -
   week: 09
   date: 2020-03-17
@@ -402,46 +391,6 @@
 -
   week: 10
   date: 2020-03-24
-  title: "Free MT on the Internet"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: "Yang & Lange"
-      title: "SYSTRAN on AltaVista: A User Study on Real-Time Machine Translation on the Internet"
-      url: http://link.springer.com.proxy2.library.illinois.edu/content/pdf/10.1007%2F3-540-49478-2_25.pdf
-    -
-      author: Och
-      title: "Statistical machine translation live"
-      url: http://googleresearch.blogspot.com/2006/04/statistical-machine-translation-live.html
-    -
-      author: "Gaspari & Hutchins"
-      title: "Online and Free! Ten Years of Online Machine Translation: Origins, Developments, Current Use and Future Prospects"
-      url: http://www.mt-archive.info/MTS-2007-Gaspari-1.pdf
--
-  week: 10
-  date: 2020-03-26
-  title: Machine Translation Evaluation and Productivity
-  lecturer: Lane Schwartz
-  reading:
-  -
-    author: Hutchins
-    title: Has machine translation improved? Some historical comparisons
-    url: http://www.mt-archive.info/00/MTS-2003-Hutchins.pdf
-  -
-    author: Miller, et al
-    title: Some Psychological Methods for Evaluating the Quality of Translations
-    url: http://www.mt-archive.info/50/MT-1956-Miller.pdf
-  -
-    author: Papineni, et al
-    title: BLEU - A Method for Automatic Evaluation of Machine Translation
-    url: http://www.aclweb.org/anthology/P02-1040.pdf
-  -
-    author: "Plitt & Masselot"
-    title: "A Productivity Test of Statistical Machine Translation Post-Editing in a Typical Localization Context"
-    url: https://ufal.mff.cuni.cz/pbml/93/art-plitt-masselot.pdf
--
-  week: 11
-  date: 2020-03-31
   title: Statistical Word-Based MT
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/04-word-based-models.pdf
@@ -461,8 +410,8 @@
       url: http://aclweb.org/anthology/C/C88/C88-1016.pdf
       grad_level: true
 -
-  week: 11
-  date: 2020-04-02
+  week: 10
+  date: 2020-03-26
   title: Statistical Phrase-Based MT
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/05-phrase-based-models.pdf
@@ -482,8 +431,8 @@
       url: http://aclweb.org/anthology/N/N03/N03-1017.pdf
       grad_level: true
 -
-  week: 12
-  date: 2020-04-07
+  week: 11
+  date: 2020-03-31
   title: Decoding
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/06-decoding.pdf
@@ -502,24 +451,8 @@
       title: "Stack decoding video walk-through"
       url: https://www.youtube.com/edit?o=U&video_id=yX8_3zTRYzo
 -
-  week: 12
-  date: 2020-04-09
-  title: Language Models
-  lecturer: Lane Schwartz
-  slides: http://statmt.org/book/slides/07-language-models.pdf
-  reading:
-    -
-      author: Koehn
-      title: "\"Language Models\", Ch. 7.0-7.2 of \"Statistical Machine Translation\""
-      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
-      pages: 181-196
-    -
-      author: Koehn
-      title: "Slides for Chapter 7: Language Models"
-      url: http://statmt.org/book/slides/07-language-models.pdf
--
-  week: 13
-  date: 2020-04-14
+  week: 11
+  date: 2020-04-02
   title: Tree-Based Models
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/11-tree-based-models.pdf
@@ -534,9 +467,35 @@
       title: "Slides for Chapter 11: Tree-based Models"
       url: http://statmt.org/book/slides/11-tree-based-models.pdf
 -
+  week: 12
+  date: 2020-04-07
+
+-
+  week: 12
+  date: 2020-04-09
+  title: "MT in the U.S. Government"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: NSA
+      title: GISTER
+      url: papers/1991_Cryptolog.pdf
+    -
+      author: Reeder
+      title: "At Your Service: Embedded MT As a Service"
+      url: http://www.aclweb.org/anthology/W00-0503
+    -
+      author: Pedtke
+      title: "U.S. Government Support and Use of Machine Translation: Current Status"
+      url: http://mt-archive.info/MTS-1997-Pedtke.pdf
+-
+  week: 13
+  date: 2020-04-14
+
+-
   week: 13
   date: 2020-04-16
-  title: No class
+  title: 
   reading:
    -
      author: Cho
@@ -585,14 +544,33 @@
 -
   week: 15
   date: 2020-04-28
-  title: Exam review
+  title: Machine Translation Evaluation and Productivity
   lecturer: Lane Schwartz
+  reading:
+  -
+    author: Hutchins
+    title: Has machine translation improved? Some historical comparisons
+    url: http://www.mt-archive.info/00/MTS-2003-Hutchins.pdf
+  -
+    author: Miller, et al
+    title: Some Psychological Methods for Evaluating the Quality of Translations
+    url: http://www.mt-archive.info/50/MT-1956-Miller.pdf
+  -
+    author: Papineni, et al
+    title: BLEU - A Method for Automatic Evaluation of Machine Translation
+    url: http://www.aclweb.org/anthology/P02-1040.pdf
+  -
+    author: "Plitt & Masselot"
+    title: "A Productivity Test of Statistical Machine Translation Post-Editing in a Typical Localization Context"
+    url: https://ufal.mff.cuni.cz/pbml/93/art-plitt-masselot.pdf
 -
   week: 15
   date: 2020-04-30
-  title: Final exam
+  title: Exam review
   lecturer: Lane Schwartz
 -
   week: 16
   date: 2020-05-05
+  title: Final exam
+  lecturer: Lane Schwartz
 
