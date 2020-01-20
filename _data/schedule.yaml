@@ -548,7 +548,7 @@
 -
   week: 14
   date: 2020-04-21
-  title: The Big Picture
+  title: MT in the Big Picture
   reading:
     -
       author: Koehn
@@ -562,25 +562,21 @@
       author: Koehn
       title: "\"Evaluation\", Ch. 4 of \"Neural Machine Translation\""
       pages: 59-80
+      optional: true
 -
   week: 14
   date: 2020-04-23
-  title: Machine Translation Evaluation and Productivity
+  title: "MT in Industry and Evaluation"
   lecturer: Lane Schwartz
   reading:
-    -
-      author: Hutchins
-      title: Has machine translation improved? Some historical comparisons
-      url: http://www.mt-archive.info/00/MTS-2003-Hutchins.pdf
-      optional: true
-    -
-      author: Koehn
-      title: "\"Evaluation\", Ch. 4 of \"Neural Machine Translation\""
-      pages: 59-80
     -
       author: "Plitt & Masselot"
       title: "A Productivity Test of Statistical Machine Translation Post-Editing in a Typical Localization Context"
       url: https://ufal.mff.cuni.cz/pbml/93/art-plitt-masselot.pdf
+    -
+      author: Koehn
+      title: "\"Evaluation\", Ch. 4 of \"Neural Machine Translation\""
+      pages: 59-80
     -
       author: Miller, et al
       title: Some Psychological Methods for Evaluating the Quality of Translations
@@ -614,6 +610,11 @@
   date: 2020-04-30
   title: Exam review
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hutchins
+      title: Has machine translation improved? Some historical comparisons
+      url: http://www.mt-archive.info/00/MTS-2003-Hutchins.pdf
 -
   week: 16
   date: 2020-05-05
