@@ -35,6 +35,10 @@
       author: Koehn
       title: "\"History\", Ch. 3 of \"Neural Machine Translation\""
       pages: 49-58
+    -
+      author: Hutchins
+      title: "\"The whisky was invisible\", or Persistent myths of MT"
+      url: http://www.mt-archive.info/90/MTNI-1995-Hutchins.pdf  
 -
   week: 2
   date: 2020-01-28
@@ -370,17 +374,32 @@
 -
   week: 8
   date: 2020-03-10
-  title: Exam review
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Hutchins
-      title: "\"The whisky was invisible\", or Persistent myths of MT"
-      url: http://www.mt-archive.info/90/MTNI-1995-Hutchins.pdf  
+  title: Exam 1
 -
   week: 8
   date: 2020-03-12
-  title: Mid-term Exam
+  title: Feed-forward neural networks
+  lecturer: Lane Schwartz
+  slides: http://statmt.org/book/slides/07-language-models.pdf
+  reading:
+    -
+      author: Koehn
+      title: "\"Neural Networks\", Ch. 5.0-5.5.0 of \"Neural Machine Translation\""
+      pages: 83-89
+    -
+      author: Koehn
+      title: "Ch. 5.5.1-5.5.4 of \"Neural Machine Translation\""
+      pages: 89-93
+      optional: true
+    -
+      author: Koehn
+      title: "Ch. 5.5.5 and Figure 5.6 of \"Neural Machine Translation\""
+      pages: 93-94
+    -
+      author: Koehn
+      title: "\"Computation Graphs\", Ch. 6 of \"Neural Machine Translation\""
+      pages: 103-114
+      grad_level: true
 -
   week: 09
   date: 2020-03-17
@@ -394,10 +413,7 @@
 -
   week: 10
   date: 2020-03-24
-  title: Language Models
-  lecturer: Lane Schwartz
-  slides: http://statmt.org/book/slides/07-language-models.pdf
-  reading:
+  title: N-gram language models
     -
       author: Koehn
       title: "\"Language Models\", Ch. 7.0-7.2 of \"Statistical Machine Translation\""
@@ -433,6 +449,7 @@
       title: "A Statistical Approach to Language Translation"
       url: http://aclweb.org/anthology/C/C88/C88-1016.pdf
       grad_level: true
+  
 -
   week: 11
   date: 2020-03-31
@@ -477,26 +494,8 @@
 -
   week: 12
   date: 2020-04-07
-  title: Neural network models
+  title: Neural n-gram language models
   reading:
-    -
-      author: Koehn
-      title: "\"Neural Networks\", Ch. 5.0-5.5.0 of \"Neural Machine Translation\""
-      pages: 83-89
-    -
-      author: Koehn
-      title: "Ch. 5.5.1-5.5.4 of \"Neural Machine Translation\""
-      pages: 89-93
-      optional: true
-    -
-      author: Koehn
-      title: "Ch. 5.5.5 and Figure 5.6 of \"Neural Machine Translation\""
-      pages: 93-94
-    -
-      author: Koehn
-      title: "\"Computation Graphs\", Ch. 6 of \"Neural Machine Translation\""
-      pages: 103-114
-      grad_level: true
     -
       author: Koehn
       title: "\"Neural Language Models\", Ch. 7.0-7.2 of \"Neural Machine Translation\""
