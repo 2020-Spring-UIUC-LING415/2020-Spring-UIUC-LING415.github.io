@@ -503,36 +503,36 @@
   date: 2020-04-16
   title: 
   reading:
-   -
-     author: Cho
-     title: "Introduction to Neural Machine Translation with GPUs (part 1)"
-     url: https://devblogs.nvidia.com/introduction-neural-machine-translation-with-gpus/
-   -
-     author: Cho
-     title: "Introduction to Neural Machine Translation with GPUs (part 2)"
-     url: https://devblogs.nvidia.com/introduction-neural-machine-translation-gpus-part-2/
-   -
-     author: Cho
-     title: "Introduction to Neural Machine Translation with GPUs (part 3)"
-     url: https://devblogs.nvidia.com/introduction-neural-machine-translation-gpus-part-3/
-   -
-     author: Luong et al
-     title: "Neural Machine Translation (seq2seq) Tutorial"
-     url: https://www.tensorflow.org/tutorials/seq2seq
+    -
+      author: Cho
+      title: "Introduction to Neural Machine Translation with GPUs (part 1)"
+      url: https://devblogs.nvidia.com/introduction-neural-machine-translation-with-gpus/
+    -
+      author: Cho
+      title: "Introduction to Neural Machine Translation with GPUs (part 2)"
+      url: https://devblogs.nvidia.com/introduction-neural-machine-translation-gpus-part-2/
+    -
+      author: Cho
+      title: "Introduction to Neural Machine Translation with GPUs (part 3)"
+      url: https://devblogs.nvidia.com/introduction-neural-machine-translation-gpus-part-3/
+    -
+      author: Luong et al
+      title: "Neural Machine Translation (seq2seq) Tutorial"
+      url: https://www.tensorflow.org/tutorials/seq2seq
 -
   week: 14
   date: 2020-04-21
   title: Neural Machine Translation
   lecturer: Lane Schwartz
   reading:
-   -
-     author: Le & Schuster 
-     title: A Neural Network for Machine Translation, at Production Scale
-     url: https://research.googleblog.com/2016/09/a-neural-network-for-machine.html
-   -
-     author: Schuster et al
-     title: Zero-Shot Translation with Google’s Multilingual Neural MT System
-     url: https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html
+    -
+      author: Le & Schuster 
+      title: A Neural Network for Machine Translation, at Production Scale
+      url: https://research.googleblog.com/2016/09/a-neural-network-for-machine.html
+    -
+      author: Schuster et al
+      title: Zero-Shot Translation with Google’s Multilingual Neural MT System
+      url: https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html
 -
   week: 14
   date: 2020-04-23
@@ -547,10 +547,10 @@
       author: Bright
       title: "Skype Translator is the most futuristic thing I've ever used"
       url: http://arstechnica.com/information-technology/2014/12/skype-translator-is-the-most-futuristic-thing-ive-ever-used/
-   -
-     author: Greene
-     title: "Language: Finding a voice"
-     url: http://www.economist.com/technology-quarterly/2017-05-01/language
+    -
+      author: Greene
+      title: "Language: Finding a voice"
+      url: http://www.economist.com/technology-quarterly/2017-05-01/language
 -
   week: 15
   date: 2020-04-28
