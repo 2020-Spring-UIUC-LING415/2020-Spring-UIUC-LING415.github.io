@@ -13,7 +13,7 @@ Instructor
 <br/>
 
 TA
-: [Helen Gent](https://linguistics.illinois.edu/directory/profile/hmgent2) - Office hours on Fridays at noon in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room TBD, and by appointment.
+: [Helen Gent](https://linguistics.illinois.edu/directory/profile/hmgent2) - Office hours on Fridays at noon in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4042, and by appointment.
 
 <br/>
 
