@@ -264,6 +264,22 @@
 -
   week: 5
   date: 2020-02-20
+  title: Tree-Based Models
+  lecturer: Lane Schwartz
+  slides: http://statmt.org/book/slides/11-tree-based-models.pdf
+  reading:
+    -
+      author: Koehn
+      title: "\"Tree-Based Models\", Ch. 11.0-11.2 of \"Statistical Machine Translation\""
+      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
+      pages: 331-346
+    -
+      author: Koehn
+      title: "Slides for Chapter 11: Tree-based Models"
+      url: http://statmt.org/book/slides/11-tree-based-models.pdf 
+-
+  week: 6
+  date: 2020-02-25
   title: "Approaches to MT: The Vauquois Triangle"
   lecturer: Lane Schwartz
   reading:
@@ -282,7 +298,7 @@
       optional: true
 -
   week: 6
-  date: 2020-02-25
+  date: 2020-02-27
   title: Interlingual Machine Translation
   lecturer: Lane Schwartz
   reading:
@@ -295,10 +311,10 @@
       author: Melby
       title: The Possibility of Language
       url: papers/1995_Melby.pdf
-      pages: 43-49  
+      pages: 43-49 
 -
-  week: 6
-  date: 2020-02-27
+  week: 7
+  date: 2020-03-03
   title: AI and the Turing Test
   lecturer: Lane Schwartz
   reading:
@@ -314,10 +330,10 @@
       author: Weizenbaum
       title: ELIZA
       url: http://dl.acm.org.proxy2.library.illinois.edu/ft_gateway.cfm?id=365168&ftid=64039&dwn=1
-      optional: true  
+      optional: true    
 -
   week: 7
-  date: 2020-03-03
+  date: 2020-03-05
   title: The Chinese Room
   lecturer: Lane Schwartz
   reading:
@@ -346,24 +362,34 @@
       author: Searle
       title: "Consciousness in Artificial Intelligence - Guest lecture at Google"
       url: https://www.youtube.com/watch?v=rHKwIYsPXLg
-      optional: true  
+      optional: true
 -
-  week: 7
-  date: 2020-03-05
+  week: 8
+  date: 2020-03-10
   title: Exam review
   lecturer: Lane Schwartz
   reading:
     -
       author: Hutchins
       title: "\"The whisky was invisible\", or Persistent myths of MT"
-      url: http://www.mt-archive.info/90/MTNI-1995-Hutchins.pdf
--
-  week: 8
-  date: 2020-03-10
-  title: Mid-term Exam
+      url: http://www.mt-archive.info/90/MTNI-1995-Hutchins.pdf  
 -
   week: 8
   date: 2020-03-12
+  title: Mid-term Exam
+-
+  week: 09
+  date: 2020-03-17
+  title: Spring Break
+  lecturer:
+-
+  week: 09
+  date: 2020-03-19
+  title: Spring Break
+  lecturer:
+-
+  week: 10
+  date: 2020-03-24
   title: Language Models
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/07-language-models.pdf
@@ -383,18 +409,8 @@
       url: https://web.stanford.edu/~jurafsky/slp3/3.pdf
       optional: true
 -
-  week: 09
-  date: 2020-03-17
-  title: Spring Break
-  lecturer:
--
-  week: 09
-  date: 2020-03-19
-  title: Spring Break
-  lecturer:
--
   week: 10
-  date: 2020-03-24
+  date: 2020-03-26
   title: Statistical Word-Based MT
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/04-word-based-models.pdf
@@ -414,8 +430,8 @@
       url: http://aclweb.org/anthology/C/C88/C88-1016.pdf
       grad_level: true
 -
-  week: 10
-  date: 2020-03-26
+  week: 11
+  date: 2020-03-31
   title: Statistical Phrase-Based MT
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/05-phrase-based-models.pdf
@@ -436,7 +452,7 @@
       grad_level: true
 -
   week: 11
-  date: 2020-03-31
+  date: 2020-04-02
   title: Decoding
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/06-decoding.pdf
@@ -454,22 +470,6 @@
       author: Schwartz
       title: "Stack decoding video walk-through"
       url: https://www.youtube.com/edit?o=U&video_id=yX8_3zTRYzo
--
-  week: 11
-  date: 2020-04-02
-  title: Tree-Based Models
-  lecturer: Lane Schwartz
-  slides: http://statmt.org/book/slides/11-tree-based-models.pdf
-  reading:
-    -
-      author: Koehn
-      title: "\"Tree-Based Models\", Ch. 11.0-11.2 of \"Statistical Machine Translation\""
-      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
-      pages: 331-346
-    -
-      author: Koehn
-      title: "Slides for Chapter 11: Tree-based Models"
-      url: http://statmt.org/book/slides/11-tree-based-models.pdf
 -
   week: 12
   date: 2020-04-07
