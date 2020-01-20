@@ -548,31 +548,9 @@
 -
   week: 14
   date: 2020-04-21
-
 -
   week: 14
   date: 2020-04-23
-  title: "MT in Evaluation"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Koehn
-      title: "\"Evaluation\", Ch. 4 of \"Neural Machine Translation\""
-      pages: 59-80
-    -
-      author: Hutchins
-      title: "Has machine translation improved? Some historical comparisons"
-      url: http://www.mt-archive.info/00/MTS-2003-Hutchins.pdf
-   -
-      author: Miller, et al
-      title: Some Psychological Methods for Evaluating the Quality of Translations
-      url: http://www.mt-archive.info/50/MT-1956-Miller.pdf
-      grad_level: true
-    -
-      author: Papineni, et al
-      title: BLEU - A Method for Automatic Evaluation of Machine Translation
-      url: http://www.aclweb.org/anthology/P02-1040.pdf
-      grad_level: true
 -
   week: 15
   date: 2020-04-28
