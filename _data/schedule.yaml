@@ -557,10 +557,7 @@
   title: Machine Translation Evaluation and Productivity
   lecturer: Lane Schwartz
   reading:
-   -
-     author: Koehn
-     title: "\"Evaluation\", Ch. 4 of \"Neural Machine Translation\""
-     pages: 59-80
+
    -
      author: "Plitt & Masselot"
      title: "A Productivity Test of Statistical Machine Translation Post-Editing in a Typical Localization Context"
