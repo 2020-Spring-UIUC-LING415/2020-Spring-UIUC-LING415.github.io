@@ -32,10 +32,11 @@ Students are expected complete all assigned readings and video lectures prior to
 </p>
 
 <ul>
-<li><b>Daily Participation</b>: 10%</li>
-<li><b>Daily Quizzes</b>: 10%</li>
-<li><b>Homework Assignments</b>: 50%</li>
-<li><b>Exam(s)</b>: 30%</li>
+<li><b>Homework Quizzes</b>: 20%</li>
+<li><b>Class Participation</b>: 20%</li>
+<li><b>Mid-term Exam 1</b>: 20%</li>
+<li><b>Mid-term Exam 2</b>: 20%</li>
+<li><b>Comprehensive Final Exam</b>: 20%</li>
 </ul>
 
 <p>
@@ -122,28 +123,11 @@ Students are expected complete all assigned readings and video lectures prior to
 </p>
 
 <p>
-If a student will be absent from class for any reason, the student is expected to inform the course instructor by <a href="https://piazza.com/class/jcgg3h0lzte3f7?cid=8">posting to this Piazza thread</a> ahead of time. Daily participation and quiz credit for excused absences may, at the discretion of the instructor, be made up by means of additional assignments.
+If a student will be absent from class for any reason, the student is expected to inform the course instructor by <a href="https://piazza.com/class/jcgg3h0lzte3f7?cid=8">posting to this Piazza thread</a> ahead of time. Daily participation credit for excused absences may, at the discretion of the instructor, be made up by means of additional assignments.
 </p>
 
 <p>
 If a student has a disability or condition that requires special consideration, the student is expected to present the requisite letter from the University Division of Disability Resources and Educational Services no later than the beginning of the second day of class.
 </p>
 
-<p>
-Homework assignments are expected to be turned in on time. Homework turned in late will be docked 5 percentage points per day late (this corresponds approximately to half of a letter grade per day late). However, it is understood that illness and other extraordinary events do occur from time to time. In order to accommodate such extraordinary events, students will be allotted a budget of 5 penalty-free late days for which no late penalty will be assessed. <strong>Penalty-free late days are intended to accommodate unforeseeable extraordinary events, not poor planning or poor time management.</strong>
-</p>
-<p>
-If a student wishes to make use of a penalty-free late day, the student must do <strong>all</strong> of the following <strong>prior to the current assignment deadline</strong>:
-<ul>
-<li><a href="https://piazza.com/class/jcgg3h0lzte3f7?cid=11">Post a private reply to this Piazza thread</a>, following the instructions specified therein.</li>
-<li>In the student's git repository for the assignment, the student must note the request in the appropriate file, check in the change, and push the change to the appropriate remote repository.</li>
-</ul>
-Only when all of these steps have been taken prior to the deadline will a penalty-free late day be applied. If a student wishes to make use of more than one penalty-free late day per assignment, all of the above steps must be performed separately for each penalty-free late day.
-</p>
-<p>
-Penalty-free late days may not be used to extend any deadline beyond the last regular day of class for the semester.
-</p>
-<p>
-For some or all homework assignments, the correct solution will be presented to the class after the homework deadline. Under no circumstances will late work be accepted after the solution has been presented to the class.
-</p>
 
