@@ -555,6 +555,10 @@
       author: Koehn
       title: "\"The Translation Problem\", Ch. 1 of \"Neural Machine Translation\""
       pages: 23-37
+    -
+      author: Koehn
+      title: "\"Uses of Machine Translation\", Ch. 2 of \"Neural Machine Translation\""
+      pages: 39-47
 -
   week: 14
   date: 2020-04-23
