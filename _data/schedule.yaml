@@ -302,10 +302,6 @@
 -
   week: 6
   date: 2020-02-27
-  title: Mid-term Exam 1 
--
-  week: 7
-  date: 2020-03-03
   title: N-gram language models
   slides: http://statmt.org/book/slides/07-language-models.pdf
   reading:
@@ -324,7 +320,7 @@
       optional: true  
 -
   week: 7
-  date: 2020-03-05
+  date: 2020-03-03
   title: Statistical Word-Based MT
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/04-word-based-models.pdf
@@ -343,8 +339,8 @@
       url: http://aclweb.org/anthology/C/C88/C88-1016.pdf
       grad_level: true
 -
-  week: 8
-  date: 2020-03-10
+  week: 7
+  date: 2020-03-05
   title: Statistical Phrase-Based MT
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/05-phrase-based-models.pdf
@@ -364,7 +360,7 @@
       grad_level: true
 -
   week: 8
-  date: 2020-03-12
+  date: 2020-03-10
   title: Decoding
   lecturer: Lane Schwartz
   slides: http://statmt.org/book/slides/06-decoding.pdf
@@ -381,6 +377,21 @@
       author: Schwartz
       title: "Stack decoding video walk-through"
       url: https://www.youtube.com/edit?o=U&video_id=yX8_3zTRYzo
+-
+  week: 8
+  date: 2020-03-12
+  title: Decoding by Parsing
+  lecturer: Lane Schwartz
+  slides: http://statmt.org/book/slides/11-tree-based-models.pdf
+  reading:
+    -
+      author: Koehn
+      title: "\"Decoding by Parsing\", Ch. 11.3-11.3.3 of \"Statistical Machine Translation\""
+      pages: 346-350
+    -
+      author: Koehn
+      title: "Slides for Chapter 11: Tree-based Models"
+      url: http://statmt.org/book/slides/11-tree-based-models.pdf 
 -
   week: 09
   date: 2020-03-17
