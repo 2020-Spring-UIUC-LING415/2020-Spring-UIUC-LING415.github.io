@@ -397,6 +397,14 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Schwartz
+      title: "Video lecture: Neural network concepts - mathematical functions"
+      url: https://www.youtube.com/watch?v=VSTPIRTp9yE
+      times: "00:00-07:11"
+      length:
+         value: 7
+         unit: "minutes"
+    -
       author: Koehn
       title: "\"Neural Networks\", Ch. 5.0-5.5.0 of \"Neural Machine Translation\""
       pages: 83-89
