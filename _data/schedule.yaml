@@ -442,6 +442,7 @@
   date: 2020-03-31
   title: Feed-forward neural networks
   lecturer: Lane Schwartz
+  slides: "slides/ff_nn_lm.pdf"
   reading:
     -
       author: Koehn
