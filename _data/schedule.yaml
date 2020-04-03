@@ -452,6 +452,7 @@
   week: 11
   date: 2020-04-02
   title: Recurrent neural language models
+  slides: "slides/rnn_lm.pdf"
   reading:
     -
       author: Koehn
